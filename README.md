@@ -25,6 +25,11 @@ I'm currently working on<br>l'm looking to collaborate on<br>I'm looking for hel
 
 <img src="https://raw.githubusercontent.com/shubhika123/shubhika123/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shubhika123/count.svg?"  />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhika123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
