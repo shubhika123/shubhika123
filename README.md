@@ -6,11 +6,11 @@
 
 
 # 💫 About Me:
-I'm currently working on AI-ML Projects<br>
+I'm currently working on AI-ML Projects.<br>
 l'm looking to collaborate in hackathons!<br>
-I'm looking for help with OOPS<br>
-I'm currently learning C++<br>
-Ask me about Git, GitHub<br>
+I'm looking for help with OOPS.<br>
+I'm currently learning C++.<br>
+Ask me about Git, GitHub!<br>
 <hr>
 
 
@@ -25,10 +25,9 @@ Ask me about Git, GitHub<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhika123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/shubhika123/shubhika123/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+  <img src="https://github.com/shubhika123/shubhika123/blob/output/github-snake-dark.svg" alt="snake animation" />
+</p>
 
 
 ## 🏆 GitHub Trophies
