@@ -25,13 +25,13 @@ Ask me about Git, GitHub!<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhika123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
-![snake gif](https://github.com/shubhika123/shubhika123/blob/output/github-snake-dark.svg) </div>
+![snake gif](https://github.com/shubhika123/shubhika123/blob/output/github-snake-dark.svg) 
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhika123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhika123&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shubhika) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/shubhika) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shubhika) 
