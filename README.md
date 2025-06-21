@@ -24,7 +24,8 @@ Ask me about Git, GitHub!<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=shubhika123&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhika123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+<div align="center">
+![snake gif](https://github.com/shubhika123/shubhika123/blob/output/github-snake-dark.svg) </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shubhika123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
