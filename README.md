@@ -6,12 +6,12 @@
 
 
 # 💫 About Me:
-I'm currently working on<br>
-l'm looking to collaborate on<br>
-I'm looking for help with <br>
-I'm currently learning<br>
-Ask me about<br>
-Fun fact<hr>
+I'm currently working on AI-ML Projects<br>
+l'm looking to collaborate in hackathons!<br>
+I'm looking for help with OOPS<br>
+I'm currently learning C++<br>
+Ask me about Git, GitHub<br>
+<hr>
 
 
 ## 🌐 Socials:
@@ -27,7 +27,7 @@ Fun fact<hr>
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/shubhika123/shubhika123/blob/output/github-snake-dark.svg)
 </div>
 
 
