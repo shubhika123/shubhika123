@@ -7,9 +7,7 @@
 # 💫 About Me:
 I'm currently working on AI-ML Projects.<br>
 l'm looking to collaborate in hackathons!<br>
-I'm looking for help with OOPS.<br>
-I'm currently learning C++.<br>
-Ask me about Git, GitHub!<br>
+I'm currently practising Data structures and algorithms.<br>
 <hr>
 
 
