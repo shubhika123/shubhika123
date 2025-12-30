@@ -5,9 +5,10 @@
 
 
 # 💫 About Me:
-I'm currently working on AI-ML Projects.<br>
-l'm looking to collaborate in hackathons!<br>
-I'm currently practising Data structures and algorithms.<br>
+Currently working on AI-ML Projects.<br>
+Looking to collaborate in hackathons!<br>
+Practising Data structures and algorithms.<br>
+Writing blogs for fun.<br>
 <hr>
 
 
